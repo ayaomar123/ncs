@@ -65,6 +65,22 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "NCS API", Version = "v1" });
 
+    c.CustomOperationIds(apiDesc =>
+    {
+        if (apiDesc.ActionDescriptor.RouteValues.TryGetValue("controller", out var controller) &&
+            apiDesc.ActionDescriptor.RouteValues.TryGetValue("action", out var action))
+        {
+            return $"{controller}_{action}";
+        }
+        return apiDesc.RelativePath?.Replace("/", "_") ?? Guid.NewGuid().ToString();
+    });
+
+    c.MapType<IFormFile>(() => new OpenApiSchema
+    {
+        Type = "string",
+        Format = "binary"
+    });
+
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         Name = "Authorization",
