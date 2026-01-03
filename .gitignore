@@ -1,0 +1,31 @@
+# OS
+.DS_Store
+
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Node / Angular
+**/node_modules/
+**/dist/
+**/.angular/
+**/.cache/
+
+# Env
+.env
+.env.*
+
+# Uploads (generated at runtime)
+backend/src/NCS.WebApi/wwwroot/uploads/*
+!backend/src/NCS.WebApi/wwwroot/uploads/.gitkeep
