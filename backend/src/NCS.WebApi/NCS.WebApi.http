@@ -1,0 +1,6 @@
+@NCS.WebApi_HostAddress = http://localhost:5226
+
+GET {{NCS.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
