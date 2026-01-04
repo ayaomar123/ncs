@@ -20,6 +20,9 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
   `,
 })
 export class DonateSuccessComponent {
-  donationRequestId = this.route.snapshot.queryParamMap.get('donationRequestId');
-  constructor(private route: ActivatedRoute) {}
+  donationRequestId: string | null = null;
+  
+  constructor(private route: ActivatedRoute) {
+    this.donationRequestId = this.route.snapshot.queryParamMap.get('donationRequestId');
+  }
 }

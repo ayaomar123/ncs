@@ -14,8 +14,11 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
   `,
 })
 export class PlaceholderComponent {
-  heading = this.route.snapshot.data['heading'] ?? 'Coming soon';
-  message = this.route.snapshot.data['message'] ?? 'This page is not implemented in MVP yet.';
+  heading: string = 'Coming soon';
+  message: string = 'This page is not implemented in MVP yet.';
 
-  constructor(private route: ActivatedRoute) {}
+  constructor(private route: ActivatedRoute) {
+    this.heading = this.route.snapshot.data['heading'] ?? 'Coming soon';
+    this.message = this.route.snapshot.data['message'] ?? 'This page is not implemented in MVP yet.';
+  }
 }
