@@ -4,6 +4,11 @@ using NCS.Application.Interfaces.Storage;
 
 namespace NCS.WebApi.Controllers;
 
+public sealed class UploadFileRequest
+{
+    public required IFormFile File { get; set; }
+}
+
 [ApiController]
 [Authorize(Policy = "Admin")]
 [Route("api/admin/media")]
@@ -11,15 +16,16 @@ public sealed class AdminMediaController(IFileStorage fileStorage) : ControllerB
 {
     [HttpPost("upload")]
     [RequestSizeLimit(10_000_000)]
-    public async Task<IActionResult> Upload([FromForm] IFormFile file, CancellationToken cancellationToken)
+    [Consumes("multipart/form-data")]
+    public async Task<IActionResult> Upload([FromForm] UploadFileRequest request, CancellationToken cancellationToken)
     {
-        if (file.Length == 0)
+        if (request.File.Length == 0)
         {
             return BadRequest(new { message = "File is empty" });
         }
 
-        await using var stream = file.OpenReadStream();
-        var url = await fileStorage.SaveAsync(stream, file.FileName, file.ContentType, cancellationToken);
+        await using var stream = request.File.OpenReadStream();
+        var url = await fileStorage.SaveAsync(stream, request.File.FileName, request.File.ContentType, cancellationToken);
         return Ok(new { url });
     }
 }
