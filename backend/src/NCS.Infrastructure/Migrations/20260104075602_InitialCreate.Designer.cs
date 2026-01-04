@@ -12,7 +12,7 @@ using NCS.Infrastructure.Persistence;
 namespace NCS.Infrastructure.Migrations
 {
     [DbContext(typeof(NcsDbContext))]
-    [Migration("20260103124707_InitialCreate")]
+    [Migration("20260104075602_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

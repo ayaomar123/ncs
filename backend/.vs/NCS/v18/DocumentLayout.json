@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|solutionrelative:src\\ncs.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|solutionrelative:src\\ncs.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.webapi\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|solutionrelative:src\\ncs.webapi\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.webapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|solutionrelative:src\\ncs.webapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.webapi\\controllers\\appealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|solutionrelative:src\\ncs.webapi\\controllers\\appealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.webapi\\controllers\\adminpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|solutionrelative:src\\ncs.webapi\\controllers\\adminpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.webapi\\controllers\\adminmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|solutionrelative:src\\ncs.webapi\\controllers\\adminmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.webapi\\controllers\\adminauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|solutionrelative:src\\ncs.webapi\\controllers\\adminauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.webapi\\controllers\\adminappealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|solutionrelative:src\\ncs.webapi\\controllers\\adminappealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572824B5-BB0A-4F02-B058-F68F5E589C2D}|src\\NCS.Infrastructure\\NCS.Infrastructure.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.infrastructure\\persistence\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572824B5-BB0A-4F02-B058-F68F5E589C2D}|src\\NCS.Infrastructure\\NCS.Infrastructure.csproj|solutionrelative:src\\ncs.infrastructure\\persistence\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6403E88C-0667-45ED-B932-EFEDAF6B68B7}|src\\NCS.Application\\NCS.Application.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.application\\ncs.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6403E88C-0667-45ED-B932-EFEDAF6B68B7}|src\\NCS.Application\\NCS.Application.csproj|solutionrelative:src\\ncs.application\\ncs.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|solutionrelative:src\\ncs.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|solutionrelative:src\\ncs.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572824B5-BB0A-4F02-B058-F68F5E589C2D}|src\\NCS.Infrastructure\\NCS.Infrastructure.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.infrastructure\\persistence\\configurations\\donationrequestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572824B5-BB0A-4F02-B058-F68F5E589C2D}|src\\NCS.Infrastructure\\NCS.Infrastructure.csproj|solutionrelative:src\\ncs.infrastructure\\persistence\\configurations\\donationrequestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.webapi\\ncs.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91EB487E-6BF0-4D07-9AC5-F441E860A688}|src\\NCS.WebApi\\NCS.WebApi.csproj|solutionrelative:src\\ncs.webapi\\ncs.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572824B5-BB0A-4F02-B058-F68F5E589C2D}|src\\NCS.Infrastructure\\NCS.Infrastructure.csproj|c:\\users\\sam88\\desktop\\dotnet\\byaya\\ncs\\backend\\src\\ncs.infrastructure\\ncs.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{572824B5-BB0A-4F02-B058-F68F5E589C2D}|src\\NCS.Infrastructure\\NCS.Infrastructure.csproj|solutionrelative:src\\ncs.infrastructure\\ncs.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppealsController.cs",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\AppealsController.cs",
+              "RelativeDocumentMoniker": "src\\NCS.WebApi\\Controllers\\AppealsController.cs",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\AppealsController.cs",
+              "RelativeToolTip": "src\\NCS.WebApi\\Controllers\\AppealsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:04:52.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminPostsController.cs",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\AdminPostsController.cs",
+              "RelativeDocumentMoniker": "src\\NCS.WebApi\\Controllers\\AdminPostsController.cs",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\AdminPostsController.cs",
+              "RelativeToolTip": "src\\NCS.WebApi\\Controllers\\AdminPostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:04:49.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\NCS.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\NCS.WebApi\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDUAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:45:58.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\NCS.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\NCS.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T12:34:39.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "src\\NCS.WebApi\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "src\\NCS.WebApi\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:04:54.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonationsController.cs",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\DonationsController.cs",
+              "RelativeDocumentMoniker": "src\\NCS.WebApi\\Controllers\\DonationsController.cs",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\DonationsController.cs",
+              "RelativeToolTip": "src\\NCS.WebApi\\Controllers\\DonationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:04:56.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminMediaController.cs",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\AdminMediaController.cs",
+              "RelativeDocumentMoniker": "src\\NCS.WebApi\\Controllers\\AdminMediaController.cs",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\AdminMediaController.cs",
+              "RelativeToolTip": "src\\NCS.WebApi\\Controllers\\AdminMediaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:04:46.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\AdminAuthController.cs",
+              "RelativeDocumentMoniker": "src\\NCS.WebApi\\Controllers\\AdminAuthController.cs",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\AdminAuthController.cs",
+              "RelativeToolTip": "src\\NCS.WebApi\\Controllers\\AdminAuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:04:43.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminAppealsController.cs",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\AdminAppealsController.cs",
+              "RelativeDocumentMoniker": "src\\NCS.WebApi\\Controllers\\AdminAppealsController.cs",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Controllers\\AdminAppealsController.cs",
+              "RelativeToolTip": "src\\NCS.WebApi\\Controllers\\AdminAppealsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:04:33.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NCS.Application",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.Application\\NCS.Application.csproj",
+              "RelativeDocumentMoniker": "src\\NCS.Application\\NCS.Application.csproj",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.Application\\NCS.Application.csproj",
+              "RelativeToolTip": "src\\NCS.Application\\NCS.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-04T07:50:53.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\NCS.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\NCS.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T12:34:30.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.Infrastructure\\Persistence\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "src\\NCS.Infrastructure\\Persistence\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.Infrastructure\\Persistence\\DbSeeder.cs",
+              "RelativeToolTip": "src\\NCS.Infrastructure\\Persistence\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:32:51.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\NCS.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "src\\NCS.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-04T07:39:17.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DonationRequestConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.Infrastructure\\Persistence\\Configurations\\DonationRequestConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\NCS.Infrastructure\\Persistence\\Configurations\\DonationRequestConfiguration.cs",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.Infrastructure\\Persistence\\Configurations\\DonationRequestConfiguration.cs",
+              "RelativeToolTip": "src\\NCS.Infrastructure\\Persistence\\Configurations\\DonationRequestConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:32:17.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NCS.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\NCS.WebApi.csproj",
+              "RelativeDocumentMoniker": "src\\NCS.WebApi\\NCS.WebApi.csproj",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.WebApi\\NCS.WebApi.csproj",
+              "RelativeToolTip": "src\\NCS.WebApi\\NCS.WebApi.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T12:22:12.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NCS.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.Infrastructure\\NCS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\NCS.Infrastructure\\NCS.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\sam88\\Desktop\\dotnet\\byaya\\ncs\\backend\\src\\NCS.Infrastructure\\NCS.Infrastructure.csproj",
+              "RelativeToolTip": "src\\NCS.Infrastructure\\NCS.Infrastructure.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T12:25:15.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
